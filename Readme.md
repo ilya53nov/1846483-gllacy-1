@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Илья Хицков](https://up.htmlacademy.ru/htmlcss-individual/1/user/1846483).
-* Наставник: `Неизвестно`.
+* Наставник: [Вадим Рахманов](https://htmlacademy.ru/profile/flander).
 
 ---
 
